@@ -1,8 +1,8 @@
 Package: com.iadam1n.statusswitcher
 Name: StatusSwitcher
 Depends: mobilesubstrate
-Pre-Depends: firmware (>=10.0)
-Version: 1.0
+Pre-Depends: firmware (>=9.0)
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Show status bar in app switcher.
 Maintainer: iAdam1n
